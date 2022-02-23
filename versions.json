@@ -1,10 +1,10 @@
 {
-  "homepage": "<homepage/download page for your mod>",
+  "homepage": "https://github.com/ZAWA-Evolved/ZAWA/wiki",
   "promos": {
-    "1.16.5-latest": "<modversion>",
-    "1.16.5-recommended": "<modversion>"
+    "1.16.5-latest": "1.0.0-BeefBeta1",
+    "1.16.5-recommended": "1.0.0-BeefBeta1"
   },
   "1.16.5": {
-    "<modversion>": "<changelog for this version>"
+    "1.0.0-BeefBeta1": "Initial release!"
   }
 }
