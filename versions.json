@@ -1,12 +1,13 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/zawa-evolved/files/all",
   "promos": {
-    "1.16.5-latest": "1.0.0-BeefBeta3",
-    "1.16.5-recommended": "1.0.0-BeefBeta3"
+    "1.16.5-latest": "1.0.0-BeefBeta4",
+    "1.16.5-recommended": "1.0.0-BeefBeta4"
   },
   "1.16.5": {
     "1.0.0-BeefBeta1": "Initial release!",
     "1.0.0-BeefBeta2": "Fix giraffes crashing users.",
-    "1.0.0-BeefBeta3": "Fixed: breeding and texture crashes, net dupes, double ammo being consumed, missing scientific names, and giraffe animations; polar bears will also only continue to target who they can reach."
+    "1.0.0-BeefBeta3": "Fixed: breeding and texture crashes, net dupes, double ammo being consumed, missing scientific names, and giraffe animations; polar bears will also only continue to target who they can reach.",
+    "1.0.0-BeefBeta4": "Crash no more! We hope.. (Also some other things! Listed with the curseforge file."
   }
 }
