@@ -1,8 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/zawa-evolved/files/all",
   "promos": {
-    "1.16.5-latest": "1.0.2-BeefBeta-TropicalExpedition6",
-    "1.16.5-recommended": "1.0.2-BeefBeta-TropicalExpedition6"
+    "1.16.5-latest": "1.1.0-IntelligentAnimals3",
+    "1.16.5-recommended": "1.1.0-IntelligentAnimals3"
   },
   "1.16.5": {
     "1.0.0-BeefBeta1": "Initial release!",
@@ -11,6 +11,9 @@
     "1.0.2-BeefBeta-TropicalExpedition1": "7 new animals, new blocks, new egg laying feature! Bug fixes!",
     "1.0.2-BeefBeta-TropicalExpedition3": "Bug fixes and plushie hats!",
     "1.0.2-BeefBeta-TropicalExpedition4": "Bug fixes and new data book layout!",
-    "1.0.2-BeefBeta-TropicalExpedition6": "Fixes a couple server crashes"
+    "1.0.2-BeefBeta-TropicalExpedition6": "Fixes a couple server crashes",
+    "1.1.0-IntelligentAnimals1": "5 new animals! 2 new NPCS! Zoo carts! Hydroponics table, 5 new enrichment blocks, 9 new plants, 13 new plushies, baby formula, and release form!",
+    "1.1.0-IntelligentAnimals2": "Plush recipes",
+    "1.1.0-IntelligentAnimals3": "Block drops, other misc fixes"
   }
 }
